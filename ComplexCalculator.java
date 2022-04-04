@@ -2,7 +2,7 @@ package com.example.java;
 
 import java.util.Scanner;
 
-public class Calculator2 {
+public class ComplexCalculator {
 
     public static void main(String[] args) {
         String s1 = getInput("Enter a numeric value: ");
